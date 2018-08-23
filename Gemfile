@@ -14,7 +14,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc # bundle exec rake doc:rails generates the A
 # gem 'bcrypt', '~> 3.1.7' # Use ActiveModel has_secure_password
 # gem 'unicorn' # Use Unicorn as the app server
 # gem 'capistrano-rails', group: :development # Use Capistrano for deployment
-gem 'bootstrap-sass', '~> 3.3.6'
+# gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap', '~> 4.1.3'
 gem "font-awesome-rails"
 
 
