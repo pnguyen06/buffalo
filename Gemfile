@@ -15,6 +15,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc # bundle exec rake doc:rails generates the A
 # gem 'unicorn' # Use Unicorn as the app server
 # gem 'capistrano-rails', group: :development # Use Capistrano for deployment
 gem 'bootstrap-sass', '~> 3.3.6'
+gem "font-awesome-rails"
 
 
 group :development, :test do
